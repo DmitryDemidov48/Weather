@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fdd91aa-a291-4144-a3c3-fdc46c750762" name="Changes" comment="создана деректоря компоненты" />
+    <list default="true" id="4fdd91aa-a291-4144-a3c3-fdc46c750762" name="Changes" comment="Initialize project using Create React App">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,13 @@
     <favorite-branches>
       <branch-storage>
         <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="ui" />
+              </list>
+            </value>
+          </entry>
           <entry type="REMOTE">
             <value>
               <list>
@@ -26,16 +35,16 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="initalize-project" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
       <RepoCoordinatesHolder>
@@ -81,6 +90,8 @@
       <updated>1676401655680</updated>
       <workItem from="1676401657457" duration="682000" />
       <workItem from="1676402463573" duration="4335000" />
+      <workItem from="1676407435624" duration="637000" />
+      <workItem from="1676408153999" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="1-commit">
       <created>1676402168358</created>
@@ -110,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676406546064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initialize project using Create React App">
+      <created>1676407786350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676407786350</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initialize project using Create React App">
+      <created>1676407868626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676407868627</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +225,8 @@
     <MESSAGE value="начало работы" />
     <MESSAGE value="initialize-project" />
     <MESSAGE value="создана деректоря компоненты" />
-    <option name="LAST_COMMIT_MESSAGE" value="создана деректоря компоненты" />
+    <MESSAGE value="создана новой ветки" />
+    <MESSAGE value="Initialize project using Create React App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize project using Create React App" />
   </component>
 </project>
